@@ -2,6 +2,13 @@
 
 Convert HEIC image files to web-compatible formats (JPEG, PNG, and WebP).
 
+Are you bothered by HEIC files from your iOS device that you can't open, even on your up-to-date Linux distribution?
+```bash
+Could not read HEIF/AVIF file: Invalid input: Unspecified: Too many auxiliary image references
+```
+
+I was too, and needed a simple CLI utility to take HEIC files and make them something usable.  This little utility is here to help you like it's helped me.
+
 ## Installation
 
 ### Prerequisites
