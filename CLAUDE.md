@@ -53,6 +53,7 @@ The script requires UV to be installed for dependency management. Dependencies a
 - User should not be expected to care about implementation details beyond needing `uv` installed
 - When adding features, maintain the simple single-script architecture
 - Preserve inline dependency declarations in the script header
+- When making changes, prompt the user to make incremental git commits as this repo will be published for others to borrow from.
 
 ## Future Enhancement Ideas
 
